@@ -39,4 +39,8 @@ Free to use under the Unsplash License
 ![Screenshot](pink-flowers.jpg)
 Free to use under the Unsplash License
 
+## choosing a theme for our github page
 
+- code _config.yml
+
+copy the code of the theme you want and copy paste into _config.yml
